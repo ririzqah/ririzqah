@@ -15,10 +15,10 @@
 --- 
 
 ### :writing_hand: About Me :
-I am a Data Analytics student <img src="https://media0.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif?cid=6c09b95265e4d0f27b1592f212d3be627bd52afb16b7d017&rid=giphy.gif&ct=s" width="30"> from South Africa.
+I am aspiring Data Professional <img src="https://media0.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif?cid=6c09b95265e4d0f27b1592f212d3be627bd52afb16b7d017&rid=giphy.gif&ct=s" width="30"> from South Africa.
 
 - 🔭 I’m currently working on personal data analytics projects to build up my portfolio, while improving my analytical skills.
-- 👯 I’m looking to collaborate on Business Intelligence and Analytics projects.
+- 👯 I’m looking to collaborate on Business Intelligence and Financial Analytics projects.
 - 🤔 Still exploring all the uses of data
 - 📫 How to reach me:
 
